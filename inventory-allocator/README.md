@@ -1,3 +1,17 @@
+### Directory Structure (src)
+
+- inventory_allocator.py has the class InventoryAllocator
+- test_inventory_allocator.py contains the unit tests for InventoryAllocator
+- requirements.txt has the version for pytest (in order to run the unit tests)
+
+
+### How To Run My Tests
+
+1. Install pytest Version 4.5.0 
+   * If using pip to install pytest, run the command: `pip install -r requirements.txt`
+2. Run test_inventory_allocator.py
+   * If running through command line, run with the command: `pytest test_inventory_allocator.py`
+
 
 
 ### Problem
